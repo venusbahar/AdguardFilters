@@ -75,6 +75,7 @@
 ||bitcoadz.pw^$third-party
 ||fotw.xyz^
 ||addan.xyz^
+||farsroid.com###main-page > main.container-fulid.app_page:nth-child(2) > div.row.container:first-child > div.col-xs-24.col-md-24.col-lg-18.main_content:first-child > div.row.app_content > article.col-xs-24.article_sticky_nav_parent:last-child > div.app_ads_banner:nth-child(7)
 ||shorteh.com^
 ||leftnetarenning.pro^
 ||amparcaim.club^
